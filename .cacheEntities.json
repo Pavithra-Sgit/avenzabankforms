@@ -1,0 +1,660 @@
+{
+  "_metadata": {
+    "konyVizVersion": "202604.0.2"
+  },
+  "templates": {
+    "g7d2de7094e9453f886ac3247f21893e": {
+      "id": "flxSampleRowTemplate",
+      "kuid": "g7d2de7094e9453f886ac3247f21893e",
+      "type": "ktemplate",
+      "path": "C:\\visualizerworkspace\\avenzabankforms\\templates\\desktop\\segments\\SampleRowTemplate.sm\\SampleRowTemplate.json",
+      "dirPath": "C:\\visualizerworkspace\\avenzabankforms\\templates\\desktop\\segments\\SampleRowTemplate.sm",
+      "directoryName": "SampleRowTemplate",
+      "children": 1,
+      "currentLocale": "default",
+      "canvasWidth": 1200,
+      "platform": "desktopweb",
+      "prevPlatform": "desktopweb",
+      "device": "desktopweb",
+      "prevDevice": "desktopweb",
+      "models": {
+        "g7d2de7094e9453f886ac3247f21893e": {
+          "id": "SampleRowTemplate",
+          "filePath": "C:\\visualizerworkspace\\avenzabankforms\\templates\\desktop\\segments\\SampleRowTemplate.sm\\SampleRowTemplate.json",
+          "wType": "Form",
+          "name": "kony.ui.Form2",
+          "entityKUID": "g7d2de7094e9453f886ac3247f21893e",
+          "isUDWInstanceModel": false,
+          "isRealChildOfTargetContainer": false,
+          "runtimePath": null
+        },
+        "d24a3cb6b1c24858a82815036da3a787": {
+          "id": "flxSampleRowTemplate",
+          "filePath": "C:\\visualizerworkspace\\avenzabankforms\\templates\\desktop\\segments\\SampleRowTemplate.sm\\flxSampleRowTemplate.json",
+          "wType": "FlexContainer",
+          "name": "kony.ui.FlexContainer",
+          "entityKUID": "g7d2de7094e9453f886ac3247f21893e",
+          "layoutType": 2,
+          "isUDWInstanceModel": false,
+          "isRealChildOfTargetContainer": false,
+          "runtimePath": "this.view"
+        },
+        "dd02a155542049f6bb723a4c64ae931c": {
+          "id": "lblHeading",
+          "filePath": "C:\\visualizerworkspace\\avenzabankforms\\templates\\desktop\\segments\\SampleRowTemplate.sm\\lblHeading.json",
+          "wType": "Label",
+          "name": "kony.ui.Label",
+          "entityKUID": "g7d2de7094e9453f886ac3247f21893e",
+          "isUDWInstanceModel": false,
+          "isRealChildOfTargetContainer": false,
+          "runtimePath": "this.view.lblHeading"
+        },
+        "aa3a24b70a4a415e9e6fdab04ab5725a": {
+          "id": "lblDescription",
+          "filePath": "C:\\visualizerworkspace\\avenzabankforms\\templates\\desktop\\segments\\SampleRowTemplate.sm\\lblDescription.json",
+          "wType": "Label",
+          "name": "kony.ui.Label",
+          "entityKUID": "g7d2de7094e9453f886ac3247f21893e",
+          "isUDWInstanceModel": false,
+          "isRealChildOfTargetContainer": false,
+          "runtimePath": "this.view.lblDescription"
+        },
+        "f9d3fc8ba34e4da4abadd61f49233ee8": {
+          "id": "lblTime",
+          "filePath": "C:\\visualizerworkspace\\avenzabankforms\\templates\\desktop\\segments\\SampleRowTemplate.sm\\lblTime.json",
+          "wType": "Label",
+          "name": "kony.ui.Label",
+          "entityKUID": "g7d2de7094e9453f886ac3247f21893e",
+          "isUDWInstanceModel": false,
+          "isRealChildOfTargetContainer": false,
+          "runtimePath": "this.view.lblTime"
+        },
+        "ca29a7a47ec44350b3dc74402ab68135": {
+          "id": "lblStrip",
+          "filePath": "C:\\visualizerworkspace\\avenzabankforms\\templates\\desktop\\segments\\SampleRowTemplate.sm\\lblStrip.json",
+          "wType": "Label",
+          "name": "kony.ui.Label",
+          "entityKUID": "g7d2de7094e9453f886ac3247f21893e",
+          "isUDWInstanceModel": false,
+          "isRealChildOfTargetContainer": false,
+          "runtimePath": "this.view.lblStrip"
+        }
+      },
+      "channel": "desktop",
+      "templateType": "segments",
+      "isSampleTemplate": true,
+      "controllerInfo": {
+        "default": {
+          "channel": "desktop",
+          "name": "flxSampleRowTemplateController"
+        }
+      },
+      "topLevelFlexKUID": "d24a3cb6b1c24858a82815036da3a787",
+      "topLevelChildren": [
+        "flxSampleRowTemplate"
+      ],
+      "defaultControllerPath": "C:\\visualizerworkspace\\avenzabankforms\\controllers\\desktop\\flxSampleRowTemplateController\\flxSampleRowTemplateControllerActions.js",
+      "formId": "SampleRowTemplate"
+    },
+    "ddf572b2337a447abaf69b242f00e3bd": {
+      "id": "flxSectionHeaderTemplate",
+      "kuid": "ddf572b2337a447abaf69b242f00e3bd",
+      "type": "ktemplate",
+      "path": "C:\\visualizerworkspace\\avenzabankforms\\templates\\desktop\\segments\\SampleSectionHeaderTemplate.sm\\SampleSectionHeaderTemplate.json",
+      "dirPath": "C:\\visualizerworkspace\\avenzabankforms\\templates\\desktop\\segments\\SampleSectionHeaderTemplate.sm",
+      "directoryName": "SampleSectionHeaderTemplate",
+      "children": 1,
+      "currentLocale": "default",
+      "canvasWidth": 1200,
+      "platform": "desktopweb",
+      "prevPlatform": "desktopweb",
+      "device": "desktopweb",
+      "prevDevice": "desktopweb",
+      "models": {
+        "ddf572b2337a447abaf69b242f00e3bd": {
+          "id": "SampleSectionHeaderTemplate",
+          "filePath": "C:\\visualizerworkspace\\avenzabankforms\\templates\\desktop\\segments\\SampleSectionHeaderTemplate.sm\\SampleSectionHeaderTemplate.json",
+          "wType": "Form",
+          "name": "kony.ui.Form2",
+          "entityKUID": "ddf572b2337a447abaf69b242f00e3bd",
+          "isUDWInstanceModel": false,
+          "isRealChildOfTargetContainer": false,
+          "runtimePath": null
+        },
+        "f45a542bc51849df8edaa8c7587192e0": {
+          "id": "flxSectionHeaderTemplate",
+          "filePath": "C:\\visualizerworkspace\\avenzabankforms\\templates\\desktop\\segments\\SampleSectionHeaderTemplate.sm\\flxSectionHeaderTemplate.json",
+          "wType": "FlexContainer",
+          "name": "kony.ui.FlexContainer",
+          "entityKUID": "ddf572b2337a447abaf69b242f00e3bd",
+          "layoutType": 2,
+          "isUDWInstanceModel": false,
+          "isRealChildOfTargetContainer": false,
+          "runtimePath": "this.view"
+        },
+        "g9f0f51ea53245d5a6cb2dbf4b527450": {
+          "id": "lblHeading",
+          "filePath": "C:\\visualizerworkspace\\avenzabankforms\\templates\\desktop\\segments\\SampleSectionHeaderTemplate.sm\\lblHeading.json",
+          "wType": "Label",
+          "name": "kony.ui.Label",
+          "entityKUID": "ddf572b2337a447abaf69b242f00e3bd",
+          "isUDWInstanceModel": false,
+          "isRealChildOfTargetContainer": false,
+          "runtimePath": "this.view.lblHeading"
+        }
+      },
+      "channel": "desktop",
+      "templateType": "segments",
+      "isSampleTemplate": true,
+      "controllerInfo": {
+        "default": {
+          "channel": "desktop",
+          "name": "flxSectionHeaderTemplateController"
+        }
+      },
+      "topLevelFlexKUID": "f45a542bc51849df8edaa8c7587192e0",
+      "topLevelChildren": [
+        "flxSectionHeaderTemplate"
+      ],
+      "defaultControllerPath": "C:\\visualizerworkspace\\avenzabankforms\\controllers\\desktop\\flxSectionHeaderTemplateController\\flxSectionHeaderTemplateControllerActions.js",
+      "formId": "SampleSectionHeaderTemplate"
+    },
+    "b1df15a438df4bbb9128bf3dacf08f9a": {
+      "id": "flxSampleRowTemplate",
+      "kuid": "b1df15a438df4bbb9128bf3dacf08f9a",
+      "type": "ktemplate",
+      "path": "C:\\visualizerworkspace\\avenzabankforms\\templates\\mobile\\segments\\SampleRowTemplate.sm\\SampleRowTemplate.json",
+      "dirPath": "C:\\visualizerworkspace\\avenzabankforms\\templates\\mobile\\segments\\SampleRowTemplate.sm",
+      "directoryName": "SampleRowTemplate",
+      "children": 1,
+      "currentLocale": "default",
+      "platform": "iphone",
+      "prevPlatform": "iphone",
+      "device": "iPhone13",
+      "prevDevice": "iPhoneX",
+      "models": {
+        "b1df15a438df4bbb9128bf3dacf08f9a": {
+          "id": "SampleRowTemplate",
+          "filePath": "C:\\visualizerworkspace\\avenzabankforms\\templates\\mobile\\segments\\SampleRowTemplate.sm\\SampleRowTemplate.json",
+          "wType": "Form",
+          "name": "kony.ui.Form2",
+          "entityKUID": "b1df15a438df4bbb9128bf3dacf08f9a",
+          "isUDWInstanceModel": false,
+          "isRealChildOfTargetContainer": false,
+          "runtimePath": null
+        },
+        "j400118dafc74cd886d5f1706d2d087c": {
+          "id": "flxSampleRowTemplate",
+          "filePath": "C:\\visualizerworkspace\\avenzabankforms\\templates\\mobile\\segments\\SampleRowTemplate.sm\\flxSampleRowTemplate.json",
+          "wType": "FlexContainer",
+          "name": "kony.ui.FlexContainer",
+          "entityKUID": "b1df15a438df4bbb9128bf3dacf08f9a",
+          "layoutType": 2,
+          "isUDWInstanceModel": false,
+          "isRealChildOfTargetContainer": false,
+          "runtimePath": "this.view"
+        },
+        "j351a7fbbdb649cb9e7df03e0be4ed0c": {
+          "id": "lblHeading",
+          "filePath": "C:\\visualizerworkspace\\avenzabankforms\\templates\\mobile\\segments\\SampleRowTemplate.sm\\lblHeading.json",
+          "wType": "Label",
+          "name": "kony.ui.Label",
+          "entityKUID": "b1df15a438df4bbb9128bf3dacf08f9a",
+          "isUDWInstanceModel": false,
+          "isRealChildOfTargetContainer": false,
+          "runtimePath": "this.view.lblHeading"
+        },
+        "eaf6c55debf04319beaa9c472876aecb": {
+          "id": "lblDescription",
+          "filePath": "C:\\visualizerworkspace\\avenzabankforms\\templates\\mobile\\segments\\SampleRowTemplate.sm\\lblDescription.json",
+          "wType": "Label",
+          "name": "kony.ui.Label",
+          "entityKUID": "b1df15a438df4bbb9128bf3dacf08f9a",
+          "isUDWInstanceModel": false,
+          "isRealChildOfTargetContainer": false,
+          "runtimePath": "this.view.lblDescription"
+        },
+        "g8b2ba90d6a24960a1921e7d263bf699": {
+          "id": "lblTime",
+          "filePath": "C:\\visualizerworkspace\\avenzabankforms\\templates\\mobile\\segments\\SampleRowTemplate.sm\\lblTime.json",
+          "wType": "Label",
+          "name": "kony.ui.Label",
+          "entityKUID": "b1df15a438df4bbb9128bf3dacf08f9a",
+          "isUDWInstanceModel": false,
+          "isRealChildOfTargetContainer": false,
+          "runtimePath": "this.view.lblTime"
+        },
+        "be2c4c93b75b48a7b347e493f4cc2d3a": {
+          "id": "lblStrip",
+          "filePath": "C:\\visualizerworkspace\\avenzabankforms\\templates\\mobile\\segments\\SampleRowTemplate.sm\\lblStrip.json",
+          "wType": "Label",
+          "name": "kony.ui.Label",
+          "entityKUID": "b1df15a438df4bbb9128bf3dacf08f9a",
+          "isUDWInstanceModel": false,
+          "isRealChildOfTargetContainer": false,
+          "runtimePath": "this.view.lblStrip"
+        }
+      },
+      "channel": "mobile",
+      "templateType": "segments",
+      "isSampleTemplate": true,
+      "controllerInfo": {
+        "default": {
+          "channel": "mobile",
+          "name": "flxSampleRowTemplateController"
+        }
+      },
+      "topLevelFlexKUID": "j400118dafc74cd886d5f1706d2d087c",
+      "topLevelChildren": [
+        "flxSampleRowTemplate"
+      ],
+      "defaultControllerPath": "C:\\visualizerworkspace\\avenzabankforms\\controllers\\mobile\\flxSampleRowTemplateController\\flxSampleRowTemplateControllerActions.js",
+      "formId": "SampleRowTemplate"
+    },
+    "d06f1e9bbe6d4802bd7b73886927e72c": {
+      "id": "flxSectionHeaderTemplate",
+      "kuid": "d06f1e9bbe6d4802bd7b73886927e72c",
+      "type": "ktemplate",
+      "path": "C:\\visualizerworkspace\\avenzabankforms\\templates\\mobile\\segments\\SampleSectionHeaderTemplate.sm\\SampleSectionHeaderTemplate.json",
+      "dirPath": "C:\\visualizerworkspace\\avenzabankforms\\templates\\mobile\\segments\\SampleSectionHeaderTemplate.sm",
+      "directoryName": "SampleSectionHeaderTemplate",
+      "children": 1,
+      "currentLocale": "default",
+      "platform": "android",
+      "prevPlatform": "iphone",
+      "device": "GalaxyS5",
+      "prevDevice": "iPhoneX",
+      "models": {
+        "d06f1e9bbe6d4802bd7b73886927e72c": {
+          "id": "SampleSectionHeaderTemplate",
+          "filePath": "C:\\visualizerworkspace\\avenzabankforms\\templates\\mobile\\segments\\SampleSectionHeaderTemplate.sm\\SampleSectionHeaderTemplate.json",
+          "wType": "Form",
+          "name": "kony.ui.Form2",
+          "entityKUID": "d06f1e9bbe6d4802bd7b73886927e72c",
+          "isUDWInstanceModel": false,
+          "isRealChildOfTargetContainer": false,
+          "runtimePath": null
+        },
+        "db2fd97597fa492786855778152b8098": {
+          "id": "flxSectionHeaderTemplate",
+          "filePath": "C:\\visualizerworkspace\\avenzabankforms\\templates\\mobile\\segments\\SampleSectionHeaderTemplate.sm\\flxSectionHeaderTemplate.json",
+          "wType": "FlexContainer",
+          "name": "kony.ui.FlexContainer",
+          "entityKUID": "d06f1e9bbe6d4802bd7b73886927e72c",
+          "layoutType": 2,
+          "isUDWInstanceModel": false,
+          "isRealChildOfTargetContainer": false,
+          "runtimePath": "this.view"
+        },
+        "e3f58adf78d34bb99ad83f834385b01c": {
+          "id": "lblHeading",
+          "filePath": "C:\\visualizerworkspace\\avenzabankforms\\templates\\mobile\\segments\\SampleSectionHeaderTemplate.sm\\lblHeading.json",
+          "wType": "Label",
+          "name": "kony.ui.Label",
+          "entityKUID": "d06f1e9bbe6d4802bd7b73886927e72c",
+          "isUDWInstanceModel": false,
+          "isRealChildOfTargetContainer": false,
+          "runtimePath": "this.view.lblHeading"
+        }
+      },
+      "channel": "mobile",
+      "templateType": "segments",
+      "isSampleTemplate": true,
+      "controllerInfo": {
+        "default": {
+          "channel": "mobile",
+          "name": "flxSectionHeaderTemplateController"
+        }
+      },
+      "topLevelFlexKUID": "db2fd97597fa492786855778152b8098",
+      "topLevelChildren": [
+        "flxSectionHeaderTemplate"
+      ],
+      "defaultControllerPath": "C:\\visualizerworkspace\\avenzabankforms\\controllers\\mobile\\flxSectionHeaderTemplateController\\flxSectionHeaderTemplateControllerActions.js",
+      "formId": "SampleSectionHeaderTemplate"
+    },
+    "j600ecbccd1e45cc8ae8a025e068996d": {
+      "id": "flxSampleRowTemplate",
+      "kuid": "j600ecbccd1e45cc8ae8a025e068996d",
+      "type": "ktemplate",
+      "path": "C:\\visualizerworkspace\\avenzabankforms\\templates\\tablet\\segments\\SampleRowTemplate.sm\\SampleRowTemplate.json",
+      "dirPath": "C:\\visualizerworkspace\\avenzabankforms\\templates\\tablet\\segments\\SampleRowTemplate.sm",
+      "directoryName": "SampleRowTemplate",
+      "children": 1,
+      "currentLocale": "default",
+      "platform": "ipad",
+      "prevPlatform": "ipad",
+      "device": "iPad3",
+      "prevDevice": "iPad3",
+      "models": {
+        "j600ecbccd1e45cc8ae8a025e068996d": {
+          "id": "SampleRowTemplate",
+          "filePath": "C:\\visualizerworkspace\\avenzabankforms\\templates\\tablet\\segments\\SampleRowTemplate.sm\\SampleRowTemplate.json",
+          "wType": "Form",
+          "name": "kony.ui.Form2",
+          "entityKUID": "j600ecbccd1e45cc8ae8a025e068996d",
+          "isUDWInstanceModel": false,
+          "isRealChildOfTargetContainer": false,
+          "runtimePath": null
+        },
+        "c3740e0c1b9445bb9c74ddc37d6c1e36": {
+          "id": "flxSampleRowTemplate",
+          "filePath": "C:\\visualizerworkspace\\avenzabankforms\\templates\\tablet\\segments\\SampleRowTemplate.sm\\flxSampleRowTemplate.json",
+          "wType": "FlexContainer",
+          "name": "kony.ui.FlexContainer",
+          "entityKUID": "j600ecbccd1e45cc8ae8a025e068996d",
+          "layoutType": 2,
+          "isUDWInstanceModel": false,
+          "isRealChildOfTargetContainer": false,
+          "runtimePath": "this.view"
+        },
+        "i5593fc165dc4c278326664ef41ab161": {
+          "id": "lblHeading",
+          "filePath": "C:\\visualizerworkspace\\avenzabankforms\\templates\\tablet\\segments\\SampleRowTemplate.sm\\lblHeading.json",
+          "wType": "Label",
+          "name": "kony.ui.Label",
+          "entityKUID": "j600ecbccd1e45cc8ae8a025e068996d",
+          "isUDWInstanceModel": false,
+          "isRealChildOfTargetContainer": false,
+          "runtimePath": "this.view.lblHeading"
+        },
+        "e8b238e59204490ea868c640d396485f": {
+          "id": "lblDescription",
+          "filePath": "C:\\visualizerworkspace\\avenzabankforms\\templates\\tablet\\segments\\SampleRowTemplate.sm\\lblDescription.json",
+          "wType": "Label",
+          "name": "kony.ui.Label",
+          "entityKUID": "j600ecbccd1e45cc8ae8a025e068996d",
+          "isUDWInstanceModel": false,
+          "isRealChildOfTargetContainer": false,
+          "runtimePath": "this.view.lblDescription"
+        },
+        "e8ae2b22e08d4ee5831ad1069f265008": {
+          "id": "lblTime",
+          "filePath": "C:\\visualizerworkspace\\avenzabankforms\\templates\\tablet\\segments\\SampleRowTemplate.sm\\lblTime.json",
+          "wType": "Label",
+          "name": "kony.ui.Label",
+          "entityKUID": "j600ecbccd1e45cc8ae8a025e068996d",
+          "isUDWInstanceModel": false,
+          "isRealChildOfTargetContainer": false,
+          "runtimePath": "this.view.lblTime"
+        },
+        "b6a137b4b1aa411a89d9e86a36aa3f96": {
+          "id": "lblStrip",
+          "filePath": "C:\\visualizerworkspace\\avenzabankforms\\templates\\tablet\\segments\\SampleRowTemplate.sm\\lblStrip.json",
+          "wType": "Label",
+          "name": "kony.ui.Label",
+          "entityKUID": "j600ecbccd1e45cc8ae8a025e068996d",
+          "isUDWInstanceModel": false,
+          "isRealChildOfTargetContainer": false,
+          "runtimePath": "this.view.lblStrip"
+        }
+      },
+      "channel": "tablet",
+      "templateType": "segments",
+      "isSampleTemplate": true,
+      "controllerInfo": {
+        "default": {
+          "channel": "tablet",
+          "name": "flxSampleRowTemplateController"
+        }
+      },
+      "topLevelFlexKUID": "c3740e0c1b9445bb9c74ddc37d6c1e36",
+      "topLevelChildren": [
+        "flxSampleRowTemplate"
+      ],
+      "defaultControllerPath": "C:\\visualizerworkspace\\avenzabankforms\\controllers\\tablet\\flxSampleRowTemplateController\\flxSampleRowTemplateControllerActions.js",
+      "formId": "SampleRowTemplate"
+    },
+    "d688ad87e4c94b509221574d42700323": {
+      "id": "flxSectionHeaderTemplate",
+      "kuid": "d688ad87e4c94b509221574d42700323",
+      "type": "ktemplate",
+      "path": "C:\\visualizerworkspace\\avenzabankforms\\templates\\tablet\\segments\\SampleSectionHeaderTemplate.sm\\SampleSectionHeaderTemplate.json",
+      "dirPath": "C:\\visualizerworkspace\\avenzabankforms\\templates\\tablet\\segments\\SampleSectionHeaderTemplate.sm",
+      "directoryName": "SampleSectionHeaderTemplate",
+      "children": 1,
+      "currentLocale": "default",
+      "platform": "ipad",
+      "prevPlatform": "spawindowstablet",
+      "device": "iPad3",
+      "prevDevice": "mssurf",
+      "models": {
+        "d688ad87e4c94b509221574d42700323": {
+          "id": "SampleSectionHeaderTemplate",
+          "filePath": "C:\\visualizerworkspace\\avenzabankforms\\templates\\tablet\\segments\\SampleSectionHeaderTemplate.sm\\SampleSectionHeaderTemplate.json",
+          "wType": "Form",
+          "name": "kony.ui.Form2",
+          "entityKUID": "d688ad87e4c94b509221574d42700323",
+          "isUDWInstanceModel": false,
+          "isRealChildOfTargetContainer": false,
+          "runtimePath": null
+        },
+        "c28d5f47428442e9a868689d47215a1b": {
+          "id": "flxSectionHeaderTemplate",
+          "filePath": "C:\\visualizerworkspace\\avenzabankforms\\templates\\tablet\\segments\\SampleSectionHeaderTemplate.sm\\flxSectionHeaderTemplate.json",
+          "wType": "FlexContainer",
+          "name": "kony.ui.FlexContainer",
+          "entityKUID": "d688ad87e4c94b509221574d42700323",
+          "layoutType": 2,
+          "isUDWInstanceModel": false,
+          "isRealChildOfTargetContainer": false,
+          "runtimePath": "this.view"
+        },
+        "e5d13df4a58d4cb58a7600ee1f50a25b": {
+          "id": "lblHeading",
+          "filePath": "C:\\visualizerworkspace\\avenzabankforms\\templates\\tablet\\segments\\SampleSectionHeaderTemplate.sm\\lblHeading.json",
+          "wType": "Label",
+          "name": "kony.ui.Label",
+          "entityKUID": "d688ad87e4c94b509221574d42700323",
+          "isUDWInstanceModel": false,
+          "isRealChildOfTargetContainer": false,
+          "runtimePath": "this.view.lblHeading"
+        }
+      },
+      "channel": "tablet",
+      "templateType": "segments",
+      "isSampleTemplate": true,
+      "controllerInfo": {
+        "default": {
+          "channel": "tablet",
+          "name": "flxSectionHeaderTemplateController"
+        }
+      },
+      "topLevelFlexKUID": "c28d5f47428442e9a868689d47215a1b",
+      "topLevelChildren": [
+        "flxSectionHeaderTemplate"
+      ],
+      "defaultControllerPath": "C:\\visualizerworkspace\\avenzabankforms\\controllers\\tablet\\flxSectionHeaderTemplateController\\flxSectionHeaderTemplateControllerActions.js",
+      "formId": "SampleSectionHeaderTemplate"
+    }
+  },
+  "userwidgets": {},
+  "forms": {
+    "fba2cabb7567440da474fe0cc9fe2a58": {
+      "id": "Form1",
+      "kuid": "fba2cabb7567440da474fe0cc9fe2a58",
+      "type": "kform",
+      "path": "C:\\visualizerworkspace\\avenzabankforms\\forms\\desktop\\Form1.sm\\Form1.json",
+      "dirPath": "C:\\visualizerworkspace\\avenzabankforms\\forms\\desktop\\Form1.sm",
+      "directoryName": "Form1",
+      "children": 0,
+      "breakpointInfo": {
+        "b1": {
+          "width": 1366
+        },
+        "b2": {
+          "width": 1024
+        },
+        "b3": {
+          "width": 640
+        }
+      },
+      "models": {
+        "fba2cabb7567440da474fe0cc9fe2a58": {
+          "id": "Form1",
+          "filePath": "C:\\visualizerworkspace\\avenzabankforms\\forms\\desktop\\Form1.sm\\Form1.json",
+          "wType": "Form",
+          "name": "kony.ui.Form2",
+          "entityKUID": "fba2cabb7567440da474fe0cc9fe2a58",
+          "layoutType": 2,
+          "isUDWInstanceModel": false,
+          "isRealChildOfTargetContainer": false,
+          "runtimePath": "this.view"
+        }
+      },
+      "channel": "desktop",
+      "wType": "Form",
+      "layoutType": 2,
+      "controllerInfo": {
+        "default": {
+          "channel": "desktop",
+          "fileType": "js",
+          "name": "Form1Controller"
+        }
+      },
+      "generatedTemplates": [],
+      "defaultControllerPath": "C:\\visualizerworkspace\\avenzabankforms\\controllers\\desktop\\Form1Controller\\Form1ControllerActions.js"
+    }
+  },
+  "glances": {},
+  "notifications": {},
+  "skins": {
+    "sea0bc0537f74359b3dccd5cd1bd1a7c": {
+      "type": "kskin",
+      "id": "sknLblDescription",
+      "kuid": "sea0bc0537f74359b3dccd5cd1bd1a7c",
+      "wType": "Label",
+      "theme": "defaultTheme",
+      "isDefaultSkin": false,
+      "forkedPlatforms": []
+    },
+    "s987aa8f3684485495e5771ed43b7539": {
+      "type": "kskin",
+      "id": "sknLblRowHeading",
+      "kuid": "s987aa8f3684485495e5771ed43b7539",
+      "wType": "Label",
+      "theme": "defaultTheme",
+      "isDefaultSkin": false,
+      "forkedPlatforms": [
+        "iphone",
+        "android",
+        "ipad",
+        "tabrcandroid",
+        "desktopweb",
+        "watchos",
+        "androidwearos"
+      ]
+    },
+    "s52ff568c6624bde8beb0b52c7121ae4": {
+      "type": "kskin",
+      "id": "sknLblStrip",
+      "kuid": "s52ff568c6624bde8beb0b52c7121ae4",
+      "wType": "Label",
+      "theme": "defaultTheme",
+      "isDefaultSkin": false,
+      "forkedPlatforms": []
+    },
+    "sc855e0c99df47afbb39e13fe8b04ad8": {
+      "type": "kskin",
+      "id": "sknLblTimeStamp",
+      "kuid": "sc855e0c99df47afbb39e13fe8b04ad8",
+      "wType": "Label",
+      "theme": "defaultTheme",
+      "isDefaultSkin": false,
+      "forkedPlatforms": []
+    },
+    "s941714718f24905bf858e0717bc9292": {
+      "type": "kskin",
+      "id": "sknSampleRowTemplate",
+      "kuid": "s941714718f24905bf858e0717bc9292",
+      "wType": "FlexContainer",
+      "theme": "defaultTheme",
+      "isDefaultSkin": false,
+      "forkedPlatforms": []
+    },
+    "s4bc8a6f1e444bfc9d4e2d4e03c6af19": {
+      "type": "kskin",
+      "id": "sknSampleSectionHeaderTemplate",
+      "kuid": "s4bc8a6f1e444bfc9d4e2d4e03c6af19",
+      "wType": "FlexContainer",
+      "theme": "defaultTheme",
+      "isDefaultSkin": false,
+      "forkedPlatforms": []
+    },
+    "seeba50b9c744a05b4e096f25998746c": {
+      "type": "kskin",
+      "id": "sknSectionHeaderLabelSkin",
+      "kuid": "seeba50b9c744a05b4e096f25998746c",
+      "wType": "Label",
+      "theme": "defaultTheme",
+      "isDefaultSkin": false,
+      "forkedPlatforms": [
+        "iphone",
+        "android",
+        "ipad",
+        "tabrcandroid",
+        "desktopweb",
+        "watchos",
+        "androidwearos"
+      ]
+    },
+    "sfa1032f22d74a53bac85d5dcfc89246": {
+      "type": "kskin",
+      "id": "slDynamicNotificationForm",
+      "kuid": "sfa1032f22d74a53bac85d5dcfc89246",
+      "wType": "WatchDynamicNotificationForm",
+      "theme": "defaultTheme",
+      "isDefaultSkin": true,
+      "forkedPlatforms": []
+    },
+    "scf0bb0ac9ac406fad753f56963d9262": {
+      "type": "kskin",
+      "id": "slForm",
+      "kuid": "scf0bb0ac9ac406fad753f56963d9262",
+      "wType": "Form",
+      "theme": "defaultTheme",
+      "isDefaultSkin": true,
+      "forkedPlatforms": []
+    },
+    "sfc61891ae01403284e37ad340db0ede": {
+      "type": "kskin",
+      "id": "slSplashiOS",
+      "kuid": "sfc61891ae01403284e37ad340db0ede",
+      "wType": "Form",
+      "theme": "defaultTheme",
+      "isDefaultSkin": true,
+      "forkedPlatforms": []
+    },
+    "sf38b09cb0b6420eaa45688ef2ae2aeb": {
+      "type": "kskin",
+      "id": "slStaticNotificationForm",
+      "kuid": "sf38b09cb0b6420eaa45688ef2ae2aeb",
+      "wType": "WatchStaticNotificationForm",
+      "theme": "defaultTheme",
+      "isDefaultSkin": true,
+      "forkedPlatforms": []
+    },
+    "sb51bcefd50c4c1c959df14dd1d7d808": {
+      "type": "kskin",
+      "id": "slTitleBar",
+      "kuid": "sb51bcefd50c4c1c959df14dd1d7d808",
+      "wType": "TitleBar",
+      "theme": "defaultTheme",
+      "isDefaultSkin": true,
+      "forkedPlatforms": []
+    },
+    "s65544694c444d87b53d8d8a10bec747": {
+      "type": "kskin",
+      "id": "slWatchForm",
+      "kuid": "s65544694c444d87b53d8d8a10bec747",
+      "wType": "Form",
+      "theme": "defaultTheme",
+      "isDefaultSkin": true,
+      "forkedPlatforms": []
+    }
+  },
+  "actions": {},
+  "starteractions": {},
+  "customwidgets": {},
+  "constants": {}
+}
