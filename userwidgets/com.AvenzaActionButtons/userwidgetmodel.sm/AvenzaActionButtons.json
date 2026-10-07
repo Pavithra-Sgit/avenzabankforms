@@ -35,18 +35,16 @@
     "autogrowmode": 0,
     "canUpdateUI": true,
     "children": [
-        "flxLine",
-        "lblTxt1",
-        "lblTxt2"
+        "flxActionbg"
     ],
     "clipbounds": false,
     "containerweight": 100,
     "enablescrolling": true,
-    "id": "flow",
+    "id": "AvenzaActionButtons",
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "d395ff61523e421787129fd0ad6824d1",
+    "kuid": "efcb47cad4bc4b0498275d698d90c096",
     "layouttype": 2,
     "name": "kony.ui.FlexContainer",
     "parent": "userwidgetmodel",

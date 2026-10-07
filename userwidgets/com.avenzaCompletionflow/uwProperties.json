@@ -1,5 +1,5 @@
 {
-    "classname": "ActionButtons",
+    "classname": "avenzaCompletionflow",
     "definitions": {
         "apis": {
             "custom": [],
@@ -24,6 +24,6 @@
             "passthrough": []
         }
     },
-    "namespace": "BankingApp",
+    "namespace": "com",
     "version": "1.0.0"
 }

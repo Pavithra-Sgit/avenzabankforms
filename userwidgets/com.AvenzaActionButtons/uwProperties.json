@@ -1,5 +1,5 @@
 {
-    "classname": "flow",
+    "classname": "AvenzaActionButtons",
     "definitions": {
         "apis": {
             "custom": [],
@@ -24,6 +24,6 @@
             "passthrough": []
         }
     },
-    "namespace": "completion",
+    "namespace": "com",
     "version": "1.0.0"
 }

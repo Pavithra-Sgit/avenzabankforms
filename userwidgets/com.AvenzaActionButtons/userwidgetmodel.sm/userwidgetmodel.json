@@ -33,7 +33,7 @@
     "canUpdateUI": true,
     "canvasWidth": 1200,
     "children": [
-        "flow"
+        "AvenzaActionButtons"
     ],
     "containerweight": 100,
     "currentLocale": "default",
@@ -49,7 +49,7 @@
     },
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "ua16a142fdd04fd7b8b033794a10fea8",
+    "kuid": "u07cc424e45e44638fe488de52c3e429",
     "layouttype": 2,
     "masterType": 1,
     "name": "kony.ui.Form2",
@@ -59,8 +59,6 @@
     },
     "paddinginpixel": false,
     "platform": "desktopweb",
-    "prevDevice": "iPhone17ProMax",
-    "prevPlatform": "iphone",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "retainscrollposition": false,

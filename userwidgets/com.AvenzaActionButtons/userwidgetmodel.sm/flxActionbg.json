@@ -48,7 +48,7 @@
     "kuid": "c7f9bc699bf54b079b2cd109ae81eaa9",
     "layouttype": 3,
     "name": "kony.ui.FlexContainer",
-    "parent": "ActionButtons",
+    "parent": "AvenzaActionButtons",
     "pf": "userwidgetmodel",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
