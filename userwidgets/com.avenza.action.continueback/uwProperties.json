@@ -1,5 +1,5 @@
 {
-    "classname": "AvenzaActionButtons",
+    "classname": "continueback",
     "definitions": {
         "apis": {
             "custom": [],
@@ -24,6 +24,6 @@
             "passthrough": []
         }
     },
-    "namespace": "com",
+    "namespace": "com.avenza.action",
     "version": "1.0.0"
 }

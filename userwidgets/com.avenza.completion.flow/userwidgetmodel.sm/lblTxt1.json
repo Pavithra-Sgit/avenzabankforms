@@ -7,7 +7,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "1040dp"
+        "value": "148dp"
     },
     "_margin_": [
         1,
@@ -41,7 +41,7 @@
     "canUpdateUI": true,
     "containerweight": 100,
     "contentalignment": 4,
-    "id": "lblTxt2",
+    "id": "lblTxt1",
     "info": null,
     "ipad": {
         "psp": {
@@ -55,9 +55,9 @@
     },
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "e67e81cd45ce4dbc8f39a39172f1bbbe",
+    "kuid": "d0cdf55bbcc54907859f70194dc2d188",
     "name": "kony.ui.Label",
-    "parent": "avenzaCompletionflow",
+    "parent": "flow",
     "pf": "userwidgetmodel",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,

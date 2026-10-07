@@ -1,5 +1,5 @@
 {
-    "classname": "avenzaCompletionflow",
+    "classname": "flow",
     "definitions": {
         "apis": {
             "custom": [],
@@ -24,6 +24,6 @@
             "passthrough": []
         }
     },
-    "namespace": "com",
+    "namespace": "com.avenza.completion",
     "version": "1.0.0"
 }

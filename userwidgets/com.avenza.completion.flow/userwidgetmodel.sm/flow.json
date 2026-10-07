@@ -2,7 +2,7 @@
     "DNDConfig": null,
     "_height_": {
         "type": "string",
-        "value": "144px"
+        "value": "100%"
     },
     "_left_": {
         "type": "string",
@@ -22,33 +22,34 @@
         0
     ],
     "_percent_": true,
-    "_skin_": "s230fcc47ca74192aa5e032b1402e17d",
+    "_skin_": "sdf2482457164e5a9b3c123afcaaa6b3",
     "_top_": {
         "type": "string",
-        "value": "40dp"
+        "value": "0dp"
     },
     "_width_": {
         "type": "string",
-        "value": "103.95%"
+        "value": "100%"
     },
     "allboxes": [],
     "autogrowmode": 0,
     "canUpdateUI": true,
     "children": [
-        "btnContinue",
-        "btnBack"
+        "flxLine",
+        "lblTxt1",
+        "lblTxt2"
     ],
     "clipbounds": false,
     "containerweight": 100,
     "enablescrolling": true,
-    "id": "flxActionbg",
+    "id": "flow",
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "c7f9bc699bf54b079b2cd109ae81eaa9",
-    "layouttype": 3,
+    "kuid": "d395ff61523e421787129fd0ad6824d1",
+    "layouttype": 2,
     "name": "kony.ui.FlexContainer",
-    "parent": "AvenzaActionButtons",
+    "parent": "userwidgetmodel",
     "pf": "userwidgetmodel",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
